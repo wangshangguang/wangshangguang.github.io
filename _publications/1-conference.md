@@ -1,6 +1,6 @@
 ---
 title: "Conference Paper"
-collection: teaching
+collection: publications
 permalink: /publications/conference
 ---
 
