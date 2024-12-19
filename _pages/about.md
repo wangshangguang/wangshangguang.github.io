@@ -1,49 +1,37 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder&chief scientist of [Tiansuan Constellation](). He is also Executive Dean at School of Computer Science, Deputy Dean at Shenzhen Research Institute, Deputy Director at SKL of Networking and Switching Technology, and Director at Star Network and Intelligence Computing Laboratory.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as chair of IEEE Technical Community on Services Computing([TCSVC](http://tab.computer.org/tcsvc/)). He also served as general chairs or program chairs of 10+ IEEE conferences, advisor/associate editors of several journals such as IEEE Transactions on Services Computing, Journal of Cloud Computing, Journal of Software: Practice and Experience, International Journal of Web and Grid Services, and so on. He is a senior member of the IEEE, and Fellow of the IET.
 
-A data-driven personal website
+NEW
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**July 10, 2024**: Our paper “An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise”，**USENIX ATC 2024 Best Paper Award!**
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+**December 9, 2023**：At 7:39 AM on December 9th, the Zhuque-2 YAO-3 launch vehicle was successfully launched from the Jiuquan Satellite Launch Center in China. It successfully placed the Tianyi-33 Satellite into its designated orbits. The Tianyi-33 satellite is a 50kg class space science experimental satellite equipped with an operating system independently developed by Beijing University of Posts and Telecommunications—**the Rust-based dual-kernel real-time operating system RROS** (<https://github.com/BUPT-OS/RROS>). RROS will carry out general tasks represented by tensorflow/k8s and real-time tasks represented by real-time file systems and real-time network transmission on the satellite. It will ensure the normal execution of upper-layer applications and scientific research tasks, such as time-delay measurement between satellite and ground, live video broadcasting, onboard web chat services, pseudo-SSH experiments, etc. This marks the official application of a Rust-written dual-kernel operating system in a satellite scenario.
+![RROS](../images/RROS.png)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+**January 15, 2023**：The third satellite called **BUPT-1** of Tiansuan constellation was successfully launched from Taiyuan, China, at 11:14am on January 15, 2023 (Beijing Time). I am the PI of the BUPT-1 satellite program.
+![bupt-1](../images/bupt-1.png)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+**February 27, 2022**：The second satellite called [Innovation Raytheon](https://www.hugewealthfinance.com/2022/innovation-raytheon-satellite-was-successfully-launched-and-huawei-cloud-heaven-and-earth-was-successfully-networked-for-the-first-time) of Tiansuan constellation was successfully launched from Wenchang, China, at 11:06am on February 27, 2022 (Beijing Time). The satellite carries the satellite-earth integration service compuitng platform including the No. 2 edge service node based on KubeEdge of Huawei Cloud, the QUIC protocol of satellite-ground link, the network function of satellite-borne 6G core network based on knowledge graph, and the satellite-borne 5G core network v3, etc..
+![chuangxing](../images/chuangxing.png)
 
-**Markdown generator**
+**14 Jan., 2021**: Our two papers were accepted by WWW 2022!
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+**07 December, 2021**: The satellite called [BAOYUN](https://www.globaltimes.cn/page/202112/1241203.shtml) with "Satellite Intelligence Compuitng and Service Platform" as the first satellite of Tiansuan Constellation has been launched in Jiuquan, China. The platform will carry out serveral in-orbit tests and experiments including 5G Core Network with 5G gNB software, Cognitive Service Architecture for 6G Core Network, [KubeEdge+Sedna for Cloud-Edge Collaboration](https://www.globaltimes.cn/page/202112/1241203.shtml), Task Offloading in Satellite Edge Computing, Satellite Containter Management, Quick Protocl, etc..
+![satellite](../images/satellite.png)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+**31 October, 2021**:We begin to build the [Tiansuan Constellation](https://www.globaltimes.cn/page/202111/1237937.shtml)[（天算星座）](https://www.chinanews.com/gn/2021/11-01/9599693.shtml). I am the constellation's chief scientist. The first phase of the Tiansuan Constellation consists of **six satellites** including two main satellites, two auxiliary satellites and two edge satellites, with the first satellite expected to be launched in May 2022.[[Youtube](https://www.youtube.com/watch?v=lAB72zwbCiE)][[Paper](../assets/TiansuanFinal1203.pdf)]
+![tiansuan](../images/tiansuan.png)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+**09 August, 2021**: [[English Video](https://www.youtube.com/watch?v=xECjZ1XBdWc)] [[Chinese Video](https://v.youku.com/v_show/id_XNTgwMjExMTM2MA==)]Our 5G core network system has been successfully deployed on the TY20 satellite and is connected to the 5G network on the ground.  
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**09 April, 2021**: The world's smallest 5G core network successfully developed by us and realized the video calling. It consists of only three network funcation(AMF, SMF, UPF) and can deploy on Raspberry Pi [Demonstrate](../images/5Gcore.mp4) <https://clustrmaps.com/site/1pcg>
