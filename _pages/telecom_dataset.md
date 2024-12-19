@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "telecom_dataset"
+permalink: /resources/telecom_dataset
+author_profile: true
+redirect_from:
+  - /resources/telecom_dataset
+---
 
 ### About Telecom Dataset
 
