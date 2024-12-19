@@ -1,7 +1,7 @@
 ---
 title: "Books/Chapters"
 collection: publications
-permalink: /publication/Chapters
+permalink: /publications/Chapters
 ---
 
 1. **Wang Shangguang**, Zhou Ao (Eds.), Collaborate Computing: Networking, Applications and Worksharing, 2017, Springer International Publishing, eBook ISBN

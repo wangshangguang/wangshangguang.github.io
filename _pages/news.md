@@ -1,11 +1,13 @@
 ---
 layout: archive
-title: "Projects & Funding"
-permalink: /projects/
+title: "News"
+permalink: /news/
 author_profile: true
 redirect_from:
-  - /projects
+  - /news
 ---
+
+{% include base_path %}
 
 1. **12 Jun., 2017**  Dr. Yunxin Liu of Microsoft Research Asia visited my lab  
    *2017年6月12日，微软亚洲研究院研究员刘云新博士来实验室访问*  

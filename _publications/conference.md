@@ -1,7 +1,7 @@
 ---
 title: "Conference Paper"
 collection: publications
-permalink: /publication/conference
+permalink: /publications/conference
 ---
 
 1. Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, Yiran Zhang, Feng Qian, **Shangguang Wang**, Deciphering the Enigma of Satellite Computing with COTS Devices: Measurement and Analysis, Proc. ACM MobiCom 2024.

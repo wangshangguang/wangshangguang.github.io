@@ -1,7 +1,7 @@
 ---
 title: "Journal Paper"
 collection: publications
-permalink: /publication/journal
+permalink: /publications/journal
 ---
 
 1. Z. Shen, J. Jin, C. Tan, A. Tagami, **S. Wang**, Q. Li, Q. Zheng, and J. Yuan, “A Survey of Next-generation Computing Technologies in Space-air-ground Integrated Networks,” ACM Computing Surveys, vol. 56, no. 1, pp.1-40, 2024.

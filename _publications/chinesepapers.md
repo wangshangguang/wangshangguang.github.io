@@ -1,7 +1,7 @@
 ---
 title: "Chinese papers"
 collection: publications
-permalink: /publication/Chinesepapers
+permalink: /publications/Chinesepapers
 ---
 
 ### [2020]
