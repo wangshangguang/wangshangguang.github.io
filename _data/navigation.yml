@@ -15,7 +15,7 @@ main:
     url: /activities/
 
   - title: "Resources"
-  url: /resources/
+    url: /resources/
 
   - title: "News"
     url: /news/
