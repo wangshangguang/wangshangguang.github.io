@@ -11,7 +11,7 @@ redirect_from:
 
 1. **12 Jun., 2017**  Dr. Yunxin Liu of Microsoft Research Asia visited my lab  
    *2017年6月12日，微软亚洲研究院研究员刘云新博士来实验室访问*  
-   ![Image](../images/12_Jun,2017.jpg)
+   ![Image](../images/12_Jun,%202017.png)
 
 2. **13 May., 2017**  Prof. Yun Yang of Swinburne University of Technology visited my lab  
    *2017年5月13日，澳大利亚斯威本科技大学终身教授、博导杨耘来实验室访问*  
