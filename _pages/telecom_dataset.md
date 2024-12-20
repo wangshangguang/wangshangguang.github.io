@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "telecom_dataset"
-permalink: /resources/telecom_dataset
+permalink: /telecom_dataset/
 author_profile: true
 redirect_from:
   - /resources/telecom_dataset
