@@ -1,6 +1,6 @@
 
 
-### About Telecom Dataset
+### About The Dataset
 The Bupt_face data set consist of 420 colour images in 21 classes, with 20 images per class.
 
 Users can easily and freely split into training sets and test sets to use.
