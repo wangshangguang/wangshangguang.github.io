@@ -34,5 +34,5 @@ NEW!
 
 **09 August, 2021**: [[English Video](https://www.youtube.com/watch?v=xECjZ1XBdWc)] [[Chinese Video](https://v.youku.com/v_show/id_XNTgwMjExMTM2MA==)]Our 5G core network system has been successfully deployed on the TY20 satellite and is connected to the 5G network on the ground.  
 
-**09 April, 2021**: The world's smallest 5G core network successfully developed by us and realized the video calling. It consists of only three network funcation(AMF, SMF, UPF) and can deploy on Raspberry Pi [Demonstrate](../images/5Gcore.mp4)
+**09 April, 2021**: The world's smallest 5G core network successfully developed by us and realized the video calling. It consists of only three network funcation(AMF, SMF, UPF) and can deploy on Raspberry Pi [[Demonstrate](../images/5Gcore.mp4)]
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7s2RCTRLsv1LHeqr7fkGoHYKYxgwead1ww3WrPGCGeA"></script>
