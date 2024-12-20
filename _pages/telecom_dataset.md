@@ -10,7 +10,7 @@ redirect_from:
 ### About Telecom Dataset
 
 The dataset, provided by Shanghai Telecom, contains more than 7.2 million records of accessing the Interent through 3,233 base stations from 9,481 mobile phones for six months. For example, the following figure shows the distribution of base stations. Each node denotes a base station in Shanghai, China. This dataset could help researchers to evaluate their solution in mobile edge computing topic such as edge server placement, service migration, service recommendation, etc.
-![img](../images/fig1.png)
+![img](../images/telecom%20fig1.png)
 
 ### Description of Telecom Dataset
 
@@ -26,7 +26,7 @@ As shown in the following table, the Telecom dataset shows 6 parameters such as 
 | 6   | User ID             | Mobile phone                                                           |
 
 The following figure shows when and where the user accessed the Internet by mobile phone.
-![img](../images/fig2.gif)
+![img](../images/telecom%20fig1.png)
 
 ### Download Instructions
 

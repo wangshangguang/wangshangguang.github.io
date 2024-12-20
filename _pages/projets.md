@@ -23,8 +23,8 @@ redirect_from:
 - Co-PI: An QoS-enhanced intelligent cloud service scheduling method, Supported by the Specialized Research Fund for the Doctoral Program of Higher Education (No. 20110005130001). Jan 2012 - Dec 2015, 400,000 RMB
 - PI: A Reliability-enhanced Performance Evaluation Approach for Cloud Service, Supported by China Postdoctoral Science Foundation (No. 2011M500226). Dec 2011 - Apr 2013, 30,000 RMB
 - PI: Service Selection Mechanism with Different User Decision, Supported by Chinese Ministry of Education. June 2013 - June 2016, 1,000,000 RMB
-- PI: [Network Service Theory Simulation](http://sguangwang.com/project/projects-webcloudsim.html), Supported by China's Ministry of Science & Technology. Dec 2013 - Apr 2016, 1,500,000 RMB
-- [Measure Reputation based on Different User Context](http://sguangwang.com/project/projects-reputation.htm)
-- [**QOE Center**](project/projects-QOE.html)
-- [**Mobile Edge Computing Experiment Platform**](projects-MEC.html)
+- PI: [Network Service Theory Simulation](../_pages/projects-webcloudsim), Supported by China's Ministry of Science & Technology. Dec 2013 - Apr 2016, 1,500,000 RMB
+- [Measure Reputation based on Different User Context](../_pages/projects-reputation)
+- [**QOE Center**](../_pages/projects-QOE)
+- [**Mobile Edge Computing Experiment Platform**](../_pages/projects-MEC)
 - [**Edgence**](http://www.edgence.org)
