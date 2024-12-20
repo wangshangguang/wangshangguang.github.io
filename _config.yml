@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "a professor at the School of Computer Science, Beijing University of Posts and Telecommunications"
   location         : "Beijing, China"
-  employer         : "Beijing University of Posts and Telecommunications"
+  employer         : # "Beijing University of Posts and Telecommunications"
   uri              : 
   email            : "sgwang@bupt.edu.cn" 
 
