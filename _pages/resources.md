@@ -20,3 +20,4 @@ redirect_from:
 9. FTCloudSim source code casual version [Source Code](../files/FTCloudSim.zip). More detailed information is in "Zhou A, Wang S, Sun Q, Zou H, Yang F. [FTCloudSim: a simulation tool for cloud service reliability enhancement mechanisms](../files/FTCLOUDSIMdemo.pdf). Proceedings of ACM/IFIP/USENIX International Middleware Conference Demo & Poster Track, 2013." If FTCloudSim can help you, please cite it in your paper.
 10. WebCloudSim is a cloud simulation system that supports fat-tree cloud data centers for reliability, QoS, energy, and network resource metrics. You can use it by [www.webcloudsim.org](http://www.webcloudsim.org)
 11. [Dataset: Shanghai Telecom Dataset for Mobile Edge Computing](./telecom_dataset.html)
+<a href="{{ site.baseurl }}/pages/telecom_dateset">Dataset: Shanghai Telecom Dataset for Mobile Edge Computing</a>
