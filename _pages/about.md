@@ -6,11 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder&chief scientist of [Tiansuan Constellation](http://www.tiansuan.org.cn/Chinese/index.html). He is also the Dean of the School of Computer Science, the Deputy Dean of the Shenzhen Research Institute, the Deputy Director of the National Key Laboratory of Networking and Switching Technology, and the Director of the Star Network and Intelligent Computing Laboratory.
+Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder and chief scientist of Tiansuan Constellation [Tiansuan Constellation](http://www.tiansuan.org.cn/Chinese/index.html). He is also the Dean of the School of Computer Science, the Deputy Dean of the Shenzhen Research Institute, the Deputy Director of the National Key Laboratory of Networking and Switching Technology, and the Director of the Star Network and Intelligent Computing Laboratory.
 
-His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as chair of IEEE Technical Community on Services Computing([TCSVC](http://tab.computer.org/tcsvc/)). He also served as general chairs or program chairs of 10+ IEEE conferences, advisor/associate editors of several journals such as IEEE Transactions on Services Computing, Journal of Cloud Computing, Journal of Software: Practice and Experience, International Journal of Web and Grid Services, and so on. He is a senior member of the IEEE, and Fellow of the IET.
+His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as the chair of the IEEE Technical Community on Services Computing ([TCSVC](http://tab.computer.org/tcsvc/)). He has also served as the general chair or program chair of more than 10 IEEE conferences and as an advisor or associate editor for several journals, such as IEEE Transactions on Services Computing, Journal of Cloud Computing, Journal of Software: Practice and Experience, and International Journal of Web and Grid Services. He is a senior member of IEEE and a Fellow of the IET.
 
-NEWS!
+
+
+## NEWS!
 ======
 
 **July 10, 2024**: Our paper “An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise”，**USENIX ATC 2024 Best Paper Award!**
