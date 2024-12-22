@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder&chief scientist of [Tiansuan Constellation](http://www.tiansuan.org.cn/Chinese/index.html). He is also Executive Dean at School of Computer Science, Deputy Dean at Shenzhen Research Institute, Deputy Director at SKL of Networking and Switching Technology, and Director at Star Network and Intelligence Computing Laboratory.
+Shangguang Wang is a professor at the School of Computer Science, Beijing University of Posts and Telecommunications, China. He is the founder&chief scientist of [Tiansuan Constellation](http://www.tiansuan.org.cn/Chinese/index.html). He is also the Dean of the School of Computer Science, the Deputy Dean of the Shenzhen Research Institute, the Deputy Director of the National Key Laboratory of Networking and Switching Technology, and the Director of the Star Network and Intelligent Computing Laboratory.
 
 His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as chair of IEEE Technical Community on Services Computing([TCSVC](http://tab.computer.org/tcsvc/)). He also served as general chairs or program chairs of 10+ IEEE conferences, advisor/associate editors of several journals such as IEEE Transactions on Services Computing, Journal of Cloud Computing, Journal of Software: Practice and Experience, International Journal of Web and Grid Services, and so on. He is a senior member of the IEEE, and Fellow of the IET.
 
