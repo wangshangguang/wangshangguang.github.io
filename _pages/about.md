@@ -12,8 +12,7 @@ His research interests include service computing, mobile edge computing, cloud c
 
 
 
-## NEWS!
-======
+# NEWS!
 
 **July 10, 2024**: Our paper “An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise”，**USENIX ATC 2024 Best Paper Award!**
 
