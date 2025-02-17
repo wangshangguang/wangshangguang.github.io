@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Activities"
-permalink: /activities/
+title: "Services"
+permalink: /services/
 author_profile: true
 redirect_from:
-  - /activities
+  - /services
 ---
 
 {% include base_path %}
