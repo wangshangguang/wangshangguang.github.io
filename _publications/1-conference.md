@@ -4,6 +4,7 @@ collection: publications
 permalink: /publications/conference
 ---
 
+
 1. Minxiao Chen, Haitao Yuan, Nan Jiang, Zhihan Zheng, Sai Wu, Ao Zhou, **Shangguang Wang**, RLOMM: An Efficient and Robust Online Map Matching Framework with Reinforcement Learning, Proc. ACM SIGMOD 2025.
 2. Zuo Zhu, Ruolin Xing, Yiran Zhang, Chaoxin Yu, Ao Zhou, **Shangguang Wang**, POSTER: An End-to-End Study on Performance and Reliability of LEO Satellite-Terrestrial Data Links, Proc. ACM SIGCOMM 2024.
 3. Dongqi Cai, **Shangguang Wang**, Zeling Zhang, Felix Xiaozhu Lin, Mengwei Xu, SILENCE: Protecting Privacy in Offloaded Speech Understanding on Resource-constrained Devices, Proc. NeurIPS 2024.
