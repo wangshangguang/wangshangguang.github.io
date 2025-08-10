@@ -11,8 +11,8 @@ redirect_from:
 
 1. **Nature子刊刊发实验室副主任王尚广教授团队突破性成果**
    [✈详情](https://www.nsfc.gov.cn/publish/portal0/tab434/info95270.htm)
-   ![Image](../images/nature.webp)
    6月19日，**Nature子刊《Nature Communications》**正式发表题为"Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System"（**基于端侧多模态大模型系统的普适性记忆增强**）的研究论文。论文第一作者为北京邮电大学博士生**蔡栋琪**，北京邮电大学计算机学院（国家示范性软件学院）**王尚广教授、徐梦炜副教授**与**剑桥大学Nicholas D. Lane教授**共同担任本文通讯作者。
+   ![Image](../images/nature.webp)
 2. 6月20日7点00分随北邮二号/三号卫星平台发射升空的“北邮光谱二号”高光谱载荷和超百Gbps星间激光通信载荷**圆满完成在轨验证任务**，首次以**高光谱遥感数据毫秒采集、秒级传输、智能处理**实现了空天地信息“采集-传输-计算”一体化**验证了“采传一体”智能光通信**的可行性
    [✈详情](https://mp.weixin.qq.com/s/w-rMp7y7HJYsMhZt7Bsmcg)
    ![Image](../images/zaiguiyunxing.png)

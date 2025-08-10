@@ -10,9 +10,11 @@ Shangguang Wang is a professor at the School of Computer Science, Beijing Univer
 
 His research interests include service computing, mobile edge computing, cloud computing, and satellite computing. He is currently serving as the chair of the IEEE Technical Community on Services Computing ([TCSVC](http://tab.computer.org/tcsvc/)). He has also served as the general chair or program chair of more than 10 IEEE conferences and as an advisor or associate editor for several journals, such as IEEE Transactions on Services Computing, Journal of Cloud Computing, Journal of Software: Practice and Experience, and International Journal of Web and Grid Services. He is a senior member of IEEE and a Fellow of the IET.
 
-
-
 # NEWS!
+
+**June 19, 2025**: A research team led by Professor **Shangguang Wang** from the School of Computer Science at Beijing University of Posts and Telecommunications, in collaboration with Professor Nicholas D. Lane's team from the University of Cambridge, has made significant progress in the field of mobile multimodal retrieval. The related findings were published on June 19, 2025, in the international journal Nature Communications under the title **"Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System"**
+
+**2024**: Our paper Qing Li, Shangguang Wang, Xiao Ma, Ao Zhou, Yue Wang, Gang Huang, Xuanzhe Liu, “Battery-Aware Energy Optimization for Satellite Edge Computing”，**IEEE Transactions on Services Computing 2024 Best Paper Award!**[✈详情](https://www.computer.org/publications/best-paper-award-winners/)
 
 **July 10, 2024**: Our paper “An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise”，**USENIX ATC 2024 Best Paper Award!**
 
