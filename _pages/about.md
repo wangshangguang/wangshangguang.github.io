@@ -14,7 +14,9 @@ His research interests include service computing, mobile edge computing, cloud c
 
 **June 19, 2025**: A research team led by Professor **Shangguang Wang** from the School of Computer Science at Beijing University of Posts and Telecommunications, in collaboration with Professor Nicholas D. Lane's team from the University of Cambridge, has made significant progress in the field of mobile multimodal retrieval. The related findings were published on June 19, 2025, in the international journal Nature Communications under the title **"Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System"**
 
-**2024**: Our paper Qing Li, Shangguang Wang, Xiao Ma, Ao Zhou, Yue Wang, Gang Huang, Xuanzhe Liu, “Battery-Aware Energy Optimization for Satellite Edge Computing”，**IEEE Transactions on Services Computing 2024 Best Paper Award!**[✈详情](https://www.computer.org/publications/best-paper-award-winners/)
+**May 17, 2025**:At 12:12 Beijing Time on May 17, 2025, China successfully launched the **"BUPT-2" and "BUPT-3" satellites** on the Dongfeng Commercial Aerospace Innovation Test Zone. Initial telemetry data confirms that both satellites have entered their planned orbits as intended.[✈link](https://mp.weixin.qq.com/s/c4rt98tuC7fmLHPqJwjNag)
+
+**2024**: Our paper Qing Li, Shangguang Wang, Xiao Ma, Ao Zhou, Yue Wang, Gang Huang, Xuanzhe Liu, “Battery-Aware Energy Optimization for Satellite Edge Computing”，**IEEE Transactions on Services Computing 2024 Best Paper Award!**[✈link](https://www.computer.org/publications/best-paper-award-winners/)
 
 **July 10, 2024**: Our paper “An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise”，**USENIX ATC 2024 Best Paper Award!**
 
