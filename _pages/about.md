@@ -44,5 +44,5 @@ His research interests include service computing, mobile edge computing, cloud c
 
   **April 09, 2021**: The world's smallest 5G core network successfully developed by us and realized the video calling. It consists of only three network funcation(AMF, SMF, UPF) and can deploy on Raspberry Pi [[Demonstrate](../images/5Gcore.mp4)]
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=7s2RCTRLsv1LHeqr7fkGoHYKYxgwead1ww3WrPGCGeA"></script>
-
+  
 </details>
