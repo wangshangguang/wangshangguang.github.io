@@ -14,7 +14,7 @@ His research interests include service computing, mobile edge computing, cloud c
 
 **August 10, 2025**: Our paper “Battery-Aware Energy Optimization for Satellite Edge Computing”，**IEEE Transactions on Services Computing 2024 Best Paper Award**!
 
-**June 19, 2025**: Our paper “Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System” has been accepted by **Nature Communications**!
+**June 19, 2025**: Our paper “Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System” has been published by **Nature Communications**!
 
 **May 17, 2025**:At 12:12 Beijing Time on May 17, 2025, We launched the **"BUPT-2" and "BUPT-3" satellites** on the Dongfeng Commercial Aerospace Innovation Test Zone successfully. Initial telemetry data confirms that both satellites have entered their planned orbits as intended.
 
