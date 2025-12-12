@@ -174,3 +174,6 @@ permalink: /publications/journal
 167. **Wang SG**, Sun QB, Zou H, Yang FC. Web Service Selection Based on Adaptive Decomposition of Global QoS Constraints in Ubiquitous Environment. Journal of Internet Technology,2011,Vol.12,No.5.pp.757-768.
 168. Sun QB, **Wang SG***, Zou H, Yang FC. QSSA: A QoS-aware Service Selection Approach. International Journal of Web and Grid Services,2011,Vol.7,No.2,pp.147-169.
 169. **Wang SG**, Sun QB, Yang FC. Towards Web Service selection based on QoS estimation. International Journal of Web and Grid Services, 2010,Vol.6,No.4,pp.424-443. [DOI:10.1504/IJWGS.2010.036406](http://dx.doi.org/10.1504/IJWGS.2010.036406)
+170. Tianshi Wang, Yiran Zhang, Ao Zhou, **Shangguang Wang***. An RDMA Congestion Control Enhancement Framework for Data Center Networks. IEEE Internet of Things Journal, 2025. [[PDF]]
+171. Lipei Yang, Ao Zhou, Xiao Ma, Yiran Zhang, Qintang Chen, **Shangguang Wang***. Flexible Shadow: Resource-Efficient Reliability for Edge Intelligence. IEEE Transactions on Services Computing, Online publication, 2025. DOI: 10.1109/TSC.2025.3617091. [[PDF]]
+172. Yijie Chen, Qiyang Zhang, Xiao Ma, Ruolin Xing, **Shangguang Wang***. SLICE: Energy-Efficient Satellite-Ground Co-Inference for AI Services. IEEE Transactions on Services Computing, vol. 18, no. 4, pp. 2388–2402, 2025. DOI: 10.1109/TSC.2025.3577451. [[PDF]]
