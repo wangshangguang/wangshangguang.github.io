@@ -8,25 +8,9 @@ redirect_from:
 ---
 
 ## 1. High-Performance Spaceborne Core Network based on eBPF Technology
-Satellite processing units generate and converge massive volumes of uplink and downlink data streams, which necessitate highly efficient forwarding through the User Plane Function (UPF) of the 5G Core (5GC).
+The On-Board Data Processing capability of 5G NTN Regenerative Satellites generates massive data traffic, posing significant challenges to the forwarding efficiency of the 5G Core's User Plane Function (UPF). Traditional free5GC UPFs face performance bottlenecks when handling high-rate sessions, primarily because of frequent data copying and context switching within the kernel protocol stack. To solve this, we enhance free5GC by leveraging eBPF (Extended Berkeley Packet Filter) technology, implementing Kernel Bypass forwarding. This approach minimizes data copies and significantly reduces CPU overhead, thereby boosting data packet forwarding efficiency to meet the stringent throughput requirements of 5G NTN and On-Board Data Processing applications.
 
-The free5GC implementation, which utilizes a traditional kernel protocol stack, frequently encounters system bottlenecks in forwarding efficiency when handling high-rate, high-concurrency mobility sessions. This is primarily due to:
-
-Frequent Copying and Context Switching between the kernel space and user space.
-
-Complex protocol processing within the traditional kernel stack.
-
-To address these limitations, we have developed an enhanced version based on free5GC by leveraging eBPF (Extended Berkeley Packet Filter) technology.
-
-Our implementation achieves Kernel Bypass forwarding, which:
-
-Minimizes the number of data copies between the kernel space and user space.
-
-Significantly reduces CPU overhead.
-
-Boosts data packet forwarding efficiency, meeting the stringent throughput requirements of 5G NTN and On-Board Data Processing.
-
-Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git](https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git)
+Related Repository Link: [https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git](https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git)
 
 ### 1.1 In-Orbit Verification
 
