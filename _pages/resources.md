@@ -26,27 +26,27 @@ Significantly reduces CPU overhead.
 
 Boosts data packet forwarding efficiency, meeting the stringent throughput requirements of 5G NTN and On-Board Data Processing.
 
-Related repository links ：https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git
+Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git](https://github.com/BUPT-SKLoNST-CorenetGroup/Sat5GC.git)
 
 ### 1.1 In-Orbit Verification
 
 The Core Network systems deployed on BUPT-2 and BUPT-3 satellites are used for architecture validation and performance measurement.
 
-Related repository links ：https://github.com/BUPT-SKLoNST-CorenetGroup/modified-sat5gc-BUPT2And3.git
+Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/modified-sat5gc-BUPT2And3.git](https://github.com/BUPT-SKLoNST-CorenetGroup/modified-sat5gc-BUPT2And3.git)
 
 ### 1.2 Distributed Service Registration and Discovery
 
 A distributed service registration and discovery mechanism that utilizes an improved consistent hashing algorithm to rapidly store and discover service registration information, thereby enhancing the reliability and efficiency of the Core Network.
 
-Related repository links ： https://github.com/BUPT-SKLoNST-CorenetGroup/ServiceRegistry.git
+Related repository links ： [https://github.com/BUPT-SKLoNST-CorenetGroup/ServiceRegistry.git](https://github.com/BUPT-SKLoNST-CorenetGroup/ServiceRegistry.git)
 
-Relevant Publication Links ：https://www.computer.org/csdl/proceedings-article/satellite/2023/058800a043/1VYxzn3pDj2
+Relevant Publication Links ：[https://www.computer.org/csdl/proceedings-article/satellite/2023/058800a043/1VYxzn3pDj2](https://www.computer.org/csdl/proceedings-article/satellite/2023/058800a043/1VYxzn3pDj2)
 
 ### 1.3 Fine-grained QoS
 
 We have designed and implemented a fine-grained QoS control framework based on Service Tags and Cross-Layer Design. This framework utilizes Service Tags, determined through communication between the Core Network and the Application Service Provider (ASP), to subdivide QoS flows into several sub-flows. Subsequently, differentiated services are provisioned specifically for these sub-flows.
 
-Related repository links ：https://github.com/BUPT-SKLoNST-CorenetGroup/FGQos.git
+Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/FGQos.git](https://github.com/BUPT-SKLoNST-CorenetGroup/FGQos.git)
 
 ### 1.4 User Plane Awareness
 
@@ -56,16 +56,16 @@ The Network State Information Perception Subsystem achieves dynamic in-path netw
 
 The Route Decision Subsystem implements a traffic scheduling algorithm based on an improved Ant Colony Optimization (ACO) algorithm, performing route decisions based on the real-time network state.
 
-Related repository links ：https://github.com/BUPT-SKLoNST-CorenetGroup/NetObserver.git
+Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/NetObserver.git](https://github.com/BUPT-SKLoNST-CorenetGroup/NetObserver.git)
 
-Relevant Publication Links ：https://qikan.cqvip.com/Qikan/Article/Detail?id=7110855341
+Relevant Publication Links ：[https://qikan.cqvip.com/Qikan/Article/Detail?id=7110855341](https://qikan.cqvip.com/Qikan/Article/Detail?id=7110855341)
 
 
 ### 1.5 Intelligent Scheduling
 
 This work focuses on decentralizing the 5G Core Network's centralized Network Data Analytics Function (NWDAF) and specifically targets the implementation of intelligent decision-making processes within the Core Network Control Plane. We propose a Distributed Network Data Analytics Function (NWDAF) based on the Raft consensus algorithm to support the intelligent decision tasks of the Core Network Control Plane.
 
-Related repository links ：https://github.com/BUPT-SKLoNST-CorenetGroup/Decision-Hub.git
+Related repository links ：[https://github.com/BUPT-SKLoNST-CorenetGroup/Decision-Hub.git](https://github.com/BUPT-SKLoNST-CorenetGroup/Decision-Hub.git)
 
 ## Earlier
 1. Prototype-system for detecting SIP flooding attacks [[Source Code]](../files/Detection%20Tool%20for%20SIP%20flooding%20attacks.rar)
