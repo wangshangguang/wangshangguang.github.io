@@ -12,6 +12,8 @@ His research interests include service computing, mobile edge computing, cloud c
 
 # NEWS!
 
+**January 15, 2026**: Our paper “Auditing Unauthorized Training Data from AI Generated Content using Information Isotopes” has been accepted by **Nature Communications**!
+
 **August 10, 2025**: Our paper “Battery-Aware Energy Optimization for Satellite Edge Computing”, has received the **Best Paper Award of 2024** from IEEE Transactions on Services Computing (IEEE TSC)!
 
 **June 19, 2025**: Our paper “Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System” has been published by **Nature Communications**!
