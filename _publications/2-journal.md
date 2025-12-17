@@ -6,7 +6,7 @@ permalink: /publications/journal
 
 
 1. Tao Qi, Jinhua Yin, Dongqi Cai, Yueqi Xie, Huili Wang, Zhiyang Hu, Peiru Yang, Guoshun Nan, Zhili Zhou, Chuhan Wu, Lingjuan Lyu, **Shangguang Wang**, Yongfeng Huang, Nicholas D. Lane, Auditing Unauthorized Training Data from AI Generated Content using Information Isotopes, Nature Communications, 2026.
-2. Dongqi Cai, **Shangguang Wang**, Chen Peng, Zeling Zhang, Zhenyan Lu, Tao Qi, Nicholas D. Lane, Mengwei Xu, Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System, Nature Communications, 2025. [Dataset1](https://www.kaggle.com/datasets/dongqicai/mobile-trace-of-viewed-images) [Dataset2](https://www.kaggle.com/datasets/penguin0211/twitter-data>
+2. Dongqi Cai, **Shangguang Wang**, Chen Peng, Zeling Zhang, Zhenyan Lu, Tao Qi, Nicholas D. Lane, Mengwei Xu, Ubiquitous Memory Augmentation via Mobile Multimodal Embedding System, Nature Communications, 2025. [Dataset1](https://www.kaggle.com/datasets/dongqicai/mobile-trace-of-viewed-images) [Dataset2](https://www.kaggle.com/datasets/penguin0211/twitter-data>)
 3. Yijie Chen, Qiyang Zhang, Xiao Ma, Ruolin Xing, **Shangguang Wang***. SLICE: Energy-Efficient Satellite-Ground Co-Inference for AI Services. IEEE Transactions on Services Computing, vol. 18, no. 4, pp. 2388–2402, 2025. DOI: 10.1109/TSC.2025.3577451. [[PDF]]
 4. Lipei Yang, Ao Zhou, Xiao Ma, Yiran Zhang, Qintang Chen, **Shangguang Wang***. Flexible Shadow: Resource-Efficient Reliability for Edge Intelligence. IEEE Transactions on Services Computing, Online publication, 2025. DOI: 10.1109/TSC.2025.3617091. [[PDF]]
 5. Tianshi Wang, Yiran Zhang, Ao Zhou, **Shangguang Wang***. An RDMA Congestion Control Enhancement Framework for Data Center Networks. IEEE Internet of Things Journal, 2025. [[PDF]]
