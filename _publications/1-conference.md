@@ -5,6 +5,7 @@ permalink: /publications/conference
 ---
 
 
+
 1. Hongyu Li, Liwei Guo, Yexuan Yang, **Shangguang Wang**, Mengwei Xu, An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise, In Proc. USENIX ATC 2024. Best Paper [Sorcecode](https://github.com/BUPT-OS/RROS)
 2. Ruolin Xing, Mengwei Xu, Ao Zhou, Qing Li, Yiran Zhang, Feng Qian, **Shangguang Wang**, Deciphering the Enigma of Satellite Computing with COTS, In Proc. ACM MobiCom 2023. [Dataset](https://github.com/TiansuanConstellation/MobiCom24-SatelliteCOTS)
 3. Zhenting Zhang, Yuanzhe Li, **Shangguang Wang**, SBIES: A Satellite Base Station Intelligent Energy-Saving System, Proc. The 2025 International Conference on Satellite Computing (IEEE Satellite 2025).
