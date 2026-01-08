@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "6G Core Network"
-permalink: /6G Core Network/
+permalink: /6GCoreNetwork/
 author_profile: true
 ---
 
