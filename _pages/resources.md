@@ -7,7 +7,7 @@ redirect_from:
   - /resources
 ---
 
-1. 6G CoreNet [[Related Work]]({{ site.baseurl }}/6G Core Network/)
+1. 6G Core Network [[Related Work]]({{ site.baseurl }}/6G Core Network/)
 2. Prototype-system for detecting SIP flooding attacks [[Source Code]](../files/Detection%20Tool%20for%20SIP%20flooding%20attacks.rar)
 3. Cloud model and MIP for Reliable Service Selection [[Source Code]](../files/Reliable%20Service%20Selection.zip)
 4. Detecting SYN flooding attacks based on CUSUM [[Source Code]](../files/Detection.rar)
